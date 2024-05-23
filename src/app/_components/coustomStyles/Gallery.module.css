@@ -1,0 +1,16 @@
+.allCornerRoundCard {
+    border-radius: 17px;
+    box-shadow: inset 2px 2px 2px;
+}
+
+.threeCornerRoundedCard {
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    box-shadow: inset 2px 2px 2px;
+}
+
+.simpleCard {
+    box-shadow: inset 2px 2px 2px;
+
+}
